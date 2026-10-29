@@ -8,6 +8,6 @@ Es un objetivo personal para mejorar mis habilidades de programación, resoluci�
 
 | Sección | Problemas completados |
 |---|---|
-| Introductory Problems | 1 / 24 |
+| Introductory Problems | 2 / 24 |
 
 
