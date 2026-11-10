@@ -9,5 +9,6 @@ Es un objetivo personal para mejorar mis habilidades de programación, resoluci�
 | Sección | Problemas completados |
 |---|---|
 | Introductory Problems | 6 / 24 |
+| Sorting and Searching | 2 / 35 | 
 
 
